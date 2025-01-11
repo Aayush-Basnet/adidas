@@ -1,4 +1,4 @@
-# adidas
+# Adidas Sales Analysis: SQL & Power BI
 
 I present a comprehensive analysis of Adidas sales data using SQL & PowerBI. As a personal project to improve my data analysis skills, I leveraged Excel's data manipulation, SQL's data analysis and PowerBI's visualization tools to uncover key insights into sales performance, trends, and patterns. Join me as I analyze the data to highlight useful information that can drive strategic decision-making and enhance business outcomes for Adidas.
 
