@@ -21,9 +21,8 @@ The analysis was conducted using Excel, SQL and PowerBI,and following a series o
 
 
 ### Dashboard
-![alt img](https://github.com/Aayush-Basnet/Photos/blob/a9f83c0d8db3687000363b04230d1b7a0c9ccb47/Screenshot%202024-05-20%20210934.png)
-![alt img](https://github.com/Aayush-Basnet/Photos/blob/a9f83c0d8db3687000363b04230d1b7a0c9ccb47/Screenshot%202024-05-20%20210951.png)
-
+![alt img](https://github.com/Aayush-Basnet/adidas/blob/007aae7c6077fbd3eb9ec8ed6e125c9c1da5375b/Image/Dashboard1.png)
+![alt img](https://github.com/Aayush-Basnet/adidas/blob/007aae7c6077fbd3eb9ec8ed6e125c9c1da5375b/Image/Dashboard2.png)
 
 ### ANALYSIS PHASE:
 
